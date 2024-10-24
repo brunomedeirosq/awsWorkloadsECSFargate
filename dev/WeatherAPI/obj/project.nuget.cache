@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5UmWW3Q0g+Rc7Vu6lI3rD3WH6OEaAU2YLvHmgMLM8wCkV2ikeNsm1wDhM2u8s09/iTEApRmW/nuKMivOYmIsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.queiros\\Documents\\GitHub_Training\\awsWorkloadsECSFargate\\dev\\WeatherAPI\\WeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.queiros\\.nuget\\packages\\awssdk.core\\3.7.400.36\\awssdk.core.3.7.400.36.nupkg.sha512",
+    "C:\\Users\\bruno.queiros\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.402\\awssdk.dynamodbv2.3.7.402.nupkg.sha512",
+    "C:\\Users\\bruno.queiros\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\bruno.queiros\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bruno.queiros\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\bruno.queiros\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\bruno.queiros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\bruno.queiros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
